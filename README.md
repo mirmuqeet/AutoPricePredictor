@@ -1,4 +1,4 @@
-**Automotive Price Prediction******
+**Automotive Price Prediction**
 
 **Overview**
 This project focuses on predicting automotive prices through comprehensive data analysis and model building. The dataset provides insights into various factors influencing car prices, including brand preferences, fuel types, car types, symbolling, engine characteristics, and more. The linear regression model developed exhibits a high level of explanatory power, with an R-squared value of 90.8%.
@@ -56,11 +56,12 @@ All predictors ("horsepower," "car width," "hatchback," "four," "High-end") have
 Example: Coefficient for "horsepower" is 0.3648, suggesting a 0.3648-unit price increase per one-unit horsepower increase, holding other variables constant.
 
 **Model Comparison**
+
 AIC: -362.7
 BIC: -344.9
 Indicating a good balance between model fit and complexity.
 
-**Conclusion******
+**Conclusion**
 The linear regression model effectively explains approximately 90.8% of the variance in car prices. Key features such as horsepower, car width, hatchback type, four cylinders, and high-end features significantly contribute to predicting car prices. The model demonstrates statistical significance and achieves a well-balanced trade-off between complexity and fit.
 
 
